@@ -35,3 +35,5 @@
 - 无所畏惧（fearless）不是没有恐惧；而是你依然心怀恐惧，但无论如何都决定要跳进去。
 - 人生若有知己相伴固然妙不可言，但那可遇而不可求。真的，也许既不可遇又不可求。可求的只有你自己，你要俯下身去，朝着幽暗深处的自己伸出手去。
 - Parfois la vie est belle, mais parfois elle ne l'est pas car son beau profil est caché. **Cherche le** ❤️ —— whoamitty
+- Mi día comienza en el momento que abro mi laptop. Creo que Bash, C++, y Lua son mi razón para seguir... -- capi_nemoo
+- 
